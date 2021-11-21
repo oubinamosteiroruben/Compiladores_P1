@@ -1,0 +1,47 @@
+---------------- README ----------------
+
+Instrucciones:
+
+Para ejecutar el compilador se deberá 
+emplear el makefile se que se encuentra 
+en la propia carpeta.
+
+Se tiene que crear el archivo ejecutable 
+mediante el uso del comando "make".
+
+A continuación, aparte de los archivos 
+.o, se creará un archivo ejectuable 
+que recibirá el nombre de "ejecutable".
+
+Para poder ejecutarlo en la consola de 
+ubuntu se deberá hacer uso del comando 
+"./ejecutable". 
+
+----------------------------------------
+
+S.Operativo de pruebas: Ubuntu 18.04
+GCC: versión 7.5.0
+----------------------------------------
+
+Explicación:
+
+El archivo principal arrancará el sistema
+de entrada, el analizador léxico y el 
+analizador sintáctico, el cual irá pidiendo
+lexemas, los cuales mostrará por pantalla. 
+
+Antes de iniciar el analizador sintáctico, 
+se mostrará el estado de la tabla de símbolos
+después de haberle cargado la lista de 
+palabras claves con sus correspondientes 
+valores. Eso mismo se realizará otra vez 
+en el momento que finalice la lectura del
+archivo.
+
+Finalmente, se mostrará una lista de 
+errores que han tenido lugar durante la 
+lectura del archivo. Estos errores serán 
+guardados en un archivo llamado Errores.txt
+
+---------------- README ----------------
+

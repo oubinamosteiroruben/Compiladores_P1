@@ -1,0 +1,4 @@
+ID Error: 1.	 LINEA: 3.	 Error: Carácter no válido. --> 0o456<8>
+ID Error: 2.	 LINEA: 7.	 Error: El tamaño del lexema excede el límite.
+ID Error: 2.	 LINEA: 21.	 Error: El tamaño del lexema excede el límite.
+ID Error: 2.	 LINEA: 60.	 Error: El tamaño del lexema excede el límite.

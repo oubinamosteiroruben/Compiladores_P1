@@ -1,0 +1,19 @@
+
+#define CL_COMENTARIO 300
+#define CL_NUM_ENTERO 301
+#define CL_NUM_FLOAT 302
+#define CL_NUM_EXP 303
+#define CL_NUM_BINARIO 304
+#define CL_NUM_OCT 305
+#define CL_NUM_HEXA 306
+#define CL_CADENA_SIMPLE 307
+#define CL_CADENA_DOBLE 308
+#define CL_ID 309
+#define CL_TAB 310
+#define CL_SALTO 311
+
+#define CL_OP_SIMPLE 330
+#define CL_OP_DOBLE 331
+#define CL_DEL_SIMPLE 332
+#define CL_DEL_DOBLE 333
+#define CL_DEL_TRIPLE 334
